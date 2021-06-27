@@ -1,0 +1,3 @@
+rootProject.name = "IOExample"
+include ':app'
+include ':io'
